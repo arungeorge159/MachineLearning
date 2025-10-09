@@ -68,9 +68,4 @@ A multi-class image classification project identifying 120 different dog breeds 
 - **Deep Learning:** CNN, Transfer Learning, Computer Vision
 - **Model Evaluation:** Cross-validation, hyperparameter tuning, performance metrics
 
-## 📁 Project Structure
-
-Each project follows a consistent structure:
-
-<img width="575" height="247" alt="image" src="https://github.com/user-attachments/assets/69f986d3-c384-4691-8e18-d968cadf2c89" />
 
