@@ -71,3 +71,12 @@ A multi-class image classification project identifying 120 different dog breeds 
 ## 📁 Project Structure
 
 Each project follows a consistent structure:
+
+project-folder/
+│
+├── data/ # Dataset files
+├── notebooks/ # Jupyter notebooks for EDA and experimentation
+├── src/ # Python scripts for production-ready code
+├── models/ # Saved models and weights
+├── reports/ # Generated reports and visualizations
+└── README.md # Project-specific documentation
