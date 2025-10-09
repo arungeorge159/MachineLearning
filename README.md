@@ -1,4 +1,4 @@
-# Machine Learning Engineering Portfolio
+# Machine Learning Portfolio
 
 A collection of machine learning projects demonstrating end-to-end workflow from data analysis to model deployment, covering diverse domains including healthcare, regression, and computer vision.
 
