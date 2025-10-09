@@ -47,7 +47,7 @@ A multi-class image classification project identifying 120 different dog breeds 
 **Key Features:**
 - Data augmentation and image preprocessing pipeline
 - Custom CNN architecture implementation
-- Transfer learning with pre-trained models (MobileNetV2, ResNet50)
+- Transfer learning with pre-trained models (MobileNetV2)
 - Handling class imbalance in multi-class classification
 - Model deployment-ready architecture
 
