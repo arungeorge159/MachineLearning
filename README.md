@@ -1,6 +1,6 @@
 # Machine Learning Portfolio
 
-A collection of machine learning projects demonstrating end-to-end workflow from data analysis to model deployment, covering diverse domains including healthcare, regression, and computer vision.
+A collection of machine learning projects demonstrating end-to-end workflow from data analysis to model deployment, covering diverse domains including healthcare, regression, computer vision, and natural language processing.
 
 ## 🚀 Projects
 
@@ -55,15 +55,33 @@ A multi-class image classification project identifying 120 different dog breeds 
 
 [![Open in GitHub](https://img.shields.io/badge/View_Code-Dog_Breed_Identification-orange?style=for-the-badge)](link-to-dog-breed-repo)
 
+---
+
+### 4. Spam Detection | Natural Language Processing
+**Tags:** `NLP` `Text Classification` `TensorFlow` `LSTM` `Word Embeddings`
+
+A text classification project to detect spam messages using deep learning on SMS and email datasets. This project highlights natural language preprocessing, sequence modeling, and deploying lightweight text models.
+
+**Key Features:**
+- Text cleaning, tokenization, and stop-word removal
+- Word-level and character-level embedding strategies
+- Bidirectional LSTM with attention mechanism
+- Real-time inference API with sub-100 ms latency
+- Explainability via attention heat-maps
+
+**Technologies:** Python, TensorFlow, Keras, NLTK, FastAPI
+
+[![Open in GitHub](https://img.shields.io/badge/View_Code-Spam_Detection-red?style=for-the-badge)](link-to-spam-repo)
+
 ## 🛠️ Technical Skills
 
 **Programming & Data Analysis**
 - **Languages:** Python
-- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn
+- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, NLTK
 - **Data Manipulation:** Data cleaning, feature engineering, EDA
 
 **Machine Learning**
-- **Frameworks:** Scikit-learn, TensorFlow, Keras
+- **Frameworks:** Scikit-learn, TensorFlow, Keras, XGBoost
 - **Supervised Learning:** Classification, Regression, Ensemble Methods
-- **Deep Learning:** CNN, Transfer Learning, Computer Vision
+- **Deep Learning:** CNN, LSTM, Transfer Learning, Computer Vision, NLP
 - **Model Evaluation:** Cross-validation, hyperparameter tuning, performance metrics
