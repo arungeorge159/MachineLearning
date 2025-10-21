@@ -17,7 +17,7 @@ A binary classification project to predict the presence of heart disease in pati
 
 **Technologies:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 
-[![Open in GitHub](https://img.shields.io/badge/View_Code-Heart_Disease_Prediction-blue?style=for-the-badge)](link-to-heart-disease-repo)
+[![Open in GitHub](https://img.shields.io/badge/View_Code-Heart_Disease_Prediction-blue?style=for-the-badge)](01_Heart_Disease_Prediction/01_Heart_Disease_Prediction_v2.ipynb)
 
 ---
 
