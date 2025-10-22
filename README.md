@@ -35,7 +35,7 @@ A regression project to predict the future sale price of bulldozers using histor
 
 **Technologies:** Python, Pandas, NumPy, Scikit-learn, XGBoost
 
-[![Open in GitHub](https://img.shields.io/badge/View_Code-Bulldozer_Price_Prediction-green?style=for-the-badge)]([link-to-bulldozer-repo](https://github.com/georgearun159/MachineLearning/blob/3ae25a98692153d99859b58679284f59e622f713/02_Bulldozer_Price_Prediction/02_Bulldozer_Price_Regression.ipynb))
+[![Open in GitHub](https://img.shields.io/badge/View_Code-Bulldozer_Price_Prediction-green?style=for-the-badge)](02_Bulldozer_Price_Prediction/02_Bulldozer_Price_Regression.ipynb)
 
 ---
 
@@ -71,7 +71,7 @@ A text classification project to detect spam messages using deep learning on SMS
 
 **Technologies:** Python, TensorFlow, Keras, NLTK, FastAPI
 
-[![Open in GitHub](https://img.shields.io/badge/View_Code-Spam_Detection-red?style=for-the-badge)]([link-to-spam-repo](https://github.com/georgearun159/MachineLearning/blob/3ae25a98692153d99859b58679284f59e622f713/04_Spam_Detection/04_Spam_Detection.ipynb))
+[![Open in GitHub](https://img.shields.io/badge/View_Code-Spam_Detection-red?style=for-the-badge)](04_Spam_Detection/04_Spam_Detection.ipynb)
 
 ## 🛠️ Technical Skills
 
